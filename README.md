@@ -1,4 +1,4 @@
-# My-Charity-html-layout
+# My Charity
 
 My Charity is example adaptive layout on Flexbox and Grid Layout
 
